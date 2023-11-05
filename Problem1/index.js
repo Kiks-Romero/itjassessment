@@ -19,4 +19,4 @@ function missingNumbers(arr){
 
 } 
 //add input here and run the main function to run the code
-module.exports = getMissingNumbers
+module.exports = missingNumbers
