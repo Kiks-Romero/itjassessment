@@ -1,0 +1,19 @@
+{
+  "name": "itjassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "jest",
+    "start": "node Problem1 && node Problem2",
+    "problem1": "node Problem1",
+    "problem2": "node Problem2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
